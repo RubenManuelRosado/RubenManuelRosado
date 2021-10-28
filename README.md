@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RubenManuelRosado
+- 👀 I’m interested in using analytics to make a meaningful difference in this world!
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on building SaaS software.
+- 📫 How to reach me rubenrosado@ymail.com
